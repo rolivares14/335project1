@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Robert Olivares - robertolivares@csu.fullerton.edu
 ### Dylon Gaddi    - dylongaddi@csu.fullerton.edu
 
@@ -67,3 +68,7 @@ Group 2: [('11:30', '12:30'), ('15:30', '17:00')]
 ```
 
 These are the common free time slots for each group when considering their busy schedules and working hours.
+=======
+# 335project1
+Project 1 submission 
+>>>>>>> origin/master
